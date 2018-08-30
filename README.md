@@ -1,6 +1,7 @@
 # hello-world
-It's a brave new world!  Hello world!
+It's a brave new world!  Hello universe!
 
 I like pizza.
-I like hamburgers.
+Hamburgers are ok.
 ...but I like coffee the best.
+Have a good day!
